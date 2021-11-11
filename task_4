@@ -1,0 +1,3 @@
+def chop(t):
+    t.pop(0)
+    t.pop(len(t) - 1)
